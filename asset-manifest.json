@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/SplunkFreeNFT/static/css/main.af2806eb.chunk.css",
-    "main.js": "/SplunkFreeNFT/static/js/main.8fa11cfb.chunk.js",
-    "main.js.map": "/SplunkFreeNFT/static/js/main.8fa11cfb.chunk.js.map",
+    "main.css": "/SplunkFreeNFT/static/css/main.aeee2e47.chunk.css",
+    "main.js": "/SplunkFreeNFT/static/js/main.58be45ab.chunk.js",
+    "main.js.map": "/SplunkFreeNFT/static/js/main.58be45ab.chunk.js.map",
     "runtime-main.js": "/SplunkFreeNFT/static/js/runtime-main.21916893.js",
     "runtime-main.js.map": "/SplunkFreeNFT/static/js/runtime-main.21916893.js.map",
     "static/js/2.b468ef23.chunk.js": "/SplunkFreeNFT/static/js/2.b468ef23.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.327d4997.chunk.js": "/SplunkFreeNFT/static/js/3.327d4997.chunk.js",
     "static/js/3.327d4997.chunk.js.map": "/SplunkFreeNFT/static/js/3.327d4997.chunk.js.map",
     "index.html": "/SplunkFreeNFT/index.html",
-    "static/css/main.af2806eb.chunk.css.map": "/SplunkFreeNFT/static/css/main.af2806eb.chunk.css.map",
+    "static/css/main.aeee2e47.chunk.css.map": "/SplunkFreeNFT/static/css/main.aeee2e47.chunk.css.map",
     "static/js/2.b468ef23.chunk.js.LICENSE.txt": "/SplunkFreeNFT/static/js/2.b468ef23.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.21916893.js",
     "static/js/2.b468ef23.chunk.js",
-    "static/css/main.af2806eb.chunk.css",
-    "static/js/main.8fa11cfb.chunk.js"
+    "static/css/main.aeee2e47.chunk.css",
+    "static/js/main.58be45ab.chunk.js"
   ]
 }
